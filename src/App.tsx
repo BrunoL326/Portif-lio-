@@ -14,9 +14,11 @@ import './styles.css'
     <Icons />
     </div>
     
-    <Cards/>  
+    <Cards/> 
+    
+     <div className='Botton'>
     <Space />
-   
+    </div>
     </div>
   );
 }

@@ -43,11 +43,13 @@ svg{
     height: 140px;
     top: 195px;
     left: 85px;
-
+    display: flex;
+    animation: Gira 4.5s ease-in-out infinite
 }
 .shadow-perfil{
     box-sizing: border-box;
     position: absolute;
+    display: flex;
     background-color: aliceblue;
     border-radius: 100px;
     width: 150px;
@@ -56,4 +58,16 @@ svg{
     left: 80px;
     filter: drop-shadow(0 0 2em #61dafbaa);
     z-index: 2;
+    animation: Gira 4.5s ease-in-out infinite
+}
+
+@keyframes Gira {
+    0%, 100%{
+        transform: translateY(0px);
+    }
+
+  50%{
+    transform: translateY(-20px);
+    }
+
 }

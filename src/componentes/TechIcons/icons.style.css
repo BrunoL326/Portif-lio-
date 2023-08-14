@@ -5,13 +5,16 @@
 
 .My_name{
     box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     position: relative;
     left: 40%; 
     color: white;
     font-size: 46px;
     display: flex ;
     text-align: center;
+    filter: drop-shadow(0 0 1em blue);
 }
+
 
 .icon_face svg{
     box-sizing: border-box;
