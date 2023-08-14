@@ -1,0 +1,11 @@
+.espaço{
+    position: relative;
+    display: inline-flex;
+    color: white;
+    box-sizing: border-box;
+    bottom: -100px;
+    margin: 0px;
+    border-radius: 25%;
+    justify-content: end;
+    width: 100%;
+}

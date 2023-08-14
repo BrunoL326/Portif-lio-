@@ -1,0 +1,32 @@
+.App{
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.My_name{
+    box-sizing: border-box;
+    position: relative;
+    left: 40%; 
+    color: white;
+    font-size: 46px;
+    display: flex ;
+    text-align: center;
+}
+
+.icon_face svg{
+    box-sizing: border-box;
+    margin: 8px;
+    position: grid;
+    color: black;
+    background-color: rgb(59, 2, 112);
+    border-radius: 20px;
+    width: 205px;
+    height: 305px;
+}
+.shadow{
+    box-sizing: border-box;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 220px;
+    height: 320px;
+}

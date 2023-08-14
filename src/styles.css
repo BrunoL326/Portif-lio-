@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(90deg, rgb(0,0,0,1)20%, rgb(82, 0, 98)50%, rgb(0,0,0,1)90%);
+    min-width: 100%;
+    min-height: 100%;
+}
+.espaço {
+    box-sizing: border-box;
+    background-color: rgb(41, 41, 46);
+    margin: 20px;
+    width: 90%;
+    height: 30%;
+}

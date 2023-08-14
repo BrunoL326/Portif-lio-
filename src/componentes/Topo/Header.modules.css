@@ -1,0 +1,59 @@
+header{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+svg{
+    width: 100px;
+    height: 160px;
+
+}
+
+.react-1 {
+    position: absolute;
+    color: cyan;
+    z-index: 9;
+    top: 25px;
+    rotate: 30deg;
+    left: 60px;
+}
+.react-2 {
+    position: absolute;
+    color: black;
+    z-index: 10;
+    top: 25px;
+    rotate: 30deg;
+    left: 60px;
+}
+
+.Back {
+    position: relative;
+    width: 99.9%;
+    height: 250px;
+    z-index: 1;
+}
+
+.Perfil {
+    position: absolute;
+    z-index: 3;
+    box-sizing: border-box;
+    border-radius: 100px;
+    width: 140px;
+    height: 140px;
+    top: 195px;
+    left: 85px;
+
+}
+.shadow-perfil{
+    box-sizing: border-box;
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    top: 190px;
+    left: 80px;
+    filter: drop-shadow(0 0 2em #61dafbaa);
+    z-index: 2;
+}

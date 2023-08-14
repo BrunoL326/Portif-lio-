@@ -1,0 +1,56 @@
+* {
+    margin: 2px;
+    padding: 0;
+}
+/* .costas {
+    min-width: 100%;
+    min-height: 100%;
+} */
+
+.container { 
+    width: 0px;
+    height: 0px;
+}
+
+.container.active {
+    box-sizing: border-box;
+    position: relative;
+    width: 98.5%;
+    height: 500px;
+    background-color: rgb(51, 12, 112);
+    border-radius: 25px;
+    display: flex;
+}
+
+.botão{
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    width: 25%;
+    height: 100px;
+    background:  rgb(51, 12, 112);
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    filter: drop-shadow(0 0 1em white);
+}
+.b_1 {
+    left: 5%;
+}
+
+.b_2{
+
+    left: 37%;
+}
+.b_3{
+    left: 69%;
+}
+
+.botão:hover{
+    background-color: black;
+    color: white;
+}
