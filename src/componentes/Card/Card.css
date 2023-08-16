@@ -37,6 +37,7 @@
     align-items: center;
     transition: 0.5s;
     filter: drop-shadow(0 0 1em white);
+    animation: Gira 4.5s ease-in-out infinite
 }
 .b_1 {
     left: 5%;
@@ -53,4 +54,14 @@
 .botão:hover{
     background-color: black;
     color: white;
+}
+
+@keyframes Gira {
+    0%, 100%{
+        transform: translateY(0px);
+    }
+
+  50%{
+    transform: translateY(-20px);
+    }
 }

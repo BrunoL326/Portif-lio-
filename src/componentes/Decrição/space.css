@@ -8,4 +8,17 @@
     border-radius: 25%;
     justify-content: Center;
     width: 90%;
+    box-sizing: border-box;
+    position: fixed;
+    background-color: rgb(41, 41, 46);
+    border-radius: 20px;
+    margin: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.chao{
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
 }

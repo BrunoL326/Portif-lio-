@@ -1,7 +1,8 @@
-import { Header } from './componentes/Topo/header';
-import { Icons } from './componentes/TechIcons/Icons';
-import {Cards } from './componentes/Card/Cards'
-import { Space } from './componentes/Decrição/space'
+
+import { Header } from '../componentes/Topo/A/header';
+import { Icons } from '../componentes/TechIcons/Icons';
+import {Cards } from '../componentes/Card/Cards'
+import { Space } from '../componentes/Decrição/space'
 import './styles.css'
 
  function App() {
@@ -15,6 +16,7 @@ import './styles.css'
     </div>
     
     <Cards/> 
+      
     
      <div className='Botton'>
     <Space />
