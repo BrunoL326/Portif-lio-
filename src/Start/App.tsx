@@ -1,27 +1,16 @@
-
-import { Header } from '../componentes/Topo/A/header';
-import { Icons } from '../componentes/TechIcons/Icons';
-import {Cards } from '../componentes/Card/Cards'
-import { Space } from '../componentes/Decrição/space'
-import './styles.css'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from '../Home/Home';
+import Changes from '../Sobre/Mim'
+import './styles.css';
 
  function App() {
-
   return (
-    <div>
-      <div className='TOP'>
-    <Header />
-    
-    <Icons />
-    </div>
-    
-    <Cards/> 
-      
-    
-     <div className='Botton'>
-    <Space />
-    </div>
-    </div>
+    <Router>
+        <Routes>
+          <Route path="/" element={<Home />}/>
+          <Route path="/Sobre" element={<Changes />}/>
+        </Routes>
+    </Router>
   );
 }
 
