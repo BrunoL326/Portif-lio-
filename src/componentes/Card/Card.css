@@ -7,19 +7,10 @@
     min-height: 100%;
 } */
 
-.container { 
-    width: 0px;
-    height: 0px;
-}
 
-.container.active {
-    box-sizing: border-box;
-    position: relative;
-    width: 98.5%;
-    height: 500px;
-    background-color: rgb(51, 12, 112);
-    border-radius: 25px;
-    display: flex;
+
+a{
+    text-decoration: none;
 }
 
 .botão{
@@ -37,7 +28,8 @@
     align-items: center;
     transition: 0.5s;
     filter: drop-shadow(0 0 1em white);
-    animation: Gira 4.5s ease-in-out infinite
+    
+   
 }
 .b_1 {
     left: 5%;
@@ -56,12 +48,3 @@
     color: white;
 }
 
-@keyframes Gira {
-    0%, 100%{
-        transform: translateY(0px);
-    }
-
-  50%{
-    transform: translateY(-20px);
-    }
-}

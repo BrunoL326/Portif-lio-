@@ -1,4 +1,4 @@
-import  { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import  { Link } from 'react-router-dom';
 import './Card.css';
 
 
@@ -16,7 +16,9 @@ export function Cards(){
                 <div className='botão b_2'>Como</div>
             </div>
             <div className='container'>
-                <div className='botão b_1'>Sobre</div>
+                <Link to='/Sobre'>
+                    <div className='botão b_1'>Sobre</div>
+                    </Link>
             </div>
             
          </div>
