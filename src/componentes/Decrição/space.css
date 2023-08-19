@@ -1,19 +1,16 @@
 .espaço{
-    position: relative;
-    display: inline-flex;
+    display:  grid;
     color: white;
     box-sizing: border-box;
     bottom: -100px;
-    margin: 0px;
     border-radius: 25%;
-    justify-content: Center;
-    width: 90%;
+    justify-content: center;
     box-sizing: border-box;
     position: fixed;
     background-color: rgb(41, 41, 46);
     border-radius: 20px;
     margin: 20px;
-    width: 100%;
+    width: 96.5%;
     height: 100px;
 }
 

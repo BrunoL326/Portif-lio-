@@ -8,16 +8,16 @@ export function Cards(){
         <div className="costas">
     
             <div className='container'>
-                <div className='botão b_3'>Por Que</div>
+                <a className='botão b_3'>Por Que</a>
             </div>
               
-      
             <div className='container'>
-                <div className='botão b_2'>Como</div>
+                <a className='botão b_2'>Como</a>
             </div>
+            
             <div className='container'>
                 <Link to='/Sobre'>
-                    <div className='botão b_1'>Sobre</div>
+                    <a className='botão b_1'>Sobre</a>
                     </Link>
             </div>
             

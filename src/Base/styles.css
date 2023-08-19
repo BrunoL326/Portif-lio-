@@ -2,5 +2,5 @@ body{
     box-sizing: border-box;
     background: linear-gradient(90deg, rgb(0,0,0,1)20%, rgb(82, 0, 98)50%, rgb(0,0,0,1)90%);
     min-width: 100%;
-    min-height: 200%;
+    min-height: 100%;
 }

@@ -2,16 +2,6 @@
     margin: 2px;
     padding: 0;
 }
-/* .costas {
-    min-width: 100%;
-    min-height: 100%;
-} */
-
-
-
-a{
-    text-decoration: none;
-}
 
 .botão{
     position: absolute;
@@ -33,14 +23,19 @@ a{
 }
 .b_1 {
     left: 5%;
+    text-decoration: none;
+    color: black;
 }
 
 .b_2{
-
+    text-decoration: none;
+    color: black;
     left: 37%;
 }
 .b_3{
     left: 69%;
+    text-decoration: none;
+    color: black;
 }
 
 .botão:hover{

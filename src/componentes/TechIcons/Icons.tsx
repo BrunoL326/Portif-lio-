@@ -8,23 +8,20 @@ import { Swiper,SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, A11y } from 'swiper';
 import './icons.style.css'
 import 'swiper/css'
-import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
 
 export function Icons() {
 
     return(
    <div className='App'>
 
-      <div className='My_name'>Tudo Que Eu tenho</div>
+      <div className='My_name'>Tudo Que Eu Tenho</div>
 
     <div className='icon_face'>
  <Swiper
        modules={[Navigation, Pagination, A11y]}
        spaceBetween={1}
        slidesPerView={4}
-       navigation
        pagination={{ clickable: true }}>
    
    <SwiperSlide>

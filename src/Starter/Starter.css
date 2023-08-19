@@ -1,0 +1,21 @@
+.Background{
+    min-height: 750px;
+    min-width: 750px;
+    position: grid;
+    display: flex ;
+    align-items: inline-column ;
+    justify-content: center;
+
+}
+
+.Eu-2{
+    position: grid;
+    box-sizing: border-box;
+    border-radius: 500px ;
+    height: 300px;
+    width: 300px;
+}
+
+.Cont-1{
+    
+}
