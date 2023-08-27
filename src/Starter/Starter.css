@@ -9,18 +9,35 @@
     justify-content: center;
 }
 
+H1{
+    position: relative;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+
 .Eu-2{
     position: grid;
     box-sizing: border-box;
     border-radius: 500px ;
     height: 300px;
     width: 300px;
+    display: flex;
+    flex-wrap: nowrap;
+
 }
 .Content-1{
     padding: 20px;
     display: flex;
     justify-content: center;
     text-decoration: none;
+    text-decoration: none;
+    
+
 }
 .Container-1{
     box-sizing: border-box;
@@ -36,10 +53,94 @@
     justify-content: center;
     color: #ffff;
     cursor: pointer;
-    flex-wrap: nowrap;
+    
 }
 
 .Container-1:hover{
+    background-color: white;
+    transition: 0.9s;
+    color: black;
+    
+}
+
+.Content-2{
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.Container-2{
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 400px;
+    height: 150;
+    background-color: #000 ;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Container-2:hover{
+    background-color: white;
+    transition: 0.9s;
+    color: black;
+    
+}
+.Content-3{
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.Container-3{
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 400px;
+    height: 150;
+    background-color: #000 ;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.Container-3:hover{
+    background-color: white;
+    transition: 0.9s;
+    color: black;
+    
+}
+
+.Content-4{
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.Container-4{
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 400px;
+    height: 150;
+    background-color: #000 ;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.Container-4:hover{
     background-color: white;
     transition: 0.9s;
     color: black;
