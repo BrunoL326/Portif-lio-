@@ -1,4 +1,4 @@
-import Perfil from './EU2.jpg'
+import Perfil from './381449146_855026732853899_5060554763201276869_n.jpg'
 import { BiUserCircle }  from '@react-icons/all-files/bi/BiUserCircle'
 import { AiOutlineInstagram } from '@react-icons/all-files/ai/AiOutlineInstagram'
 import { AiFillLinkedin } from '@react-icons/all-files/ai/AiFillLinkedin'
