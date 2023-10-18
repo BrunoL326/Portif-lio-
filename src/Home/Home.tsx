@@ -1,7 +1,7 @@
-import { Header } from '../componentes/Topo/A/header';
-import { Icons } from '../componentes/TechIcons/Icons';
-import { Cards } from '../componentes/Card/Cards';
-import { Space } from '../componentes/Decrição/space';
+import { Header } from '../componentes_base/Topo/A/header';
+import { Icons } from '../componentes_base/TechIcons/Icons';
+import { Cards } from '../componentes_base/Card/Cards';
+import { Space } from '../componentes_base/Decrição/space';
 
 function Home() {
     return(
