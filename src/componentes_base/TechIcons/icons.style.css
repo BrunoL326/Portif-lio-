@@ -7,7 +7,7 @@
     box-sizing: border-box;
     width: 400px;
     height: 400%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
     position: relative;
     left: 40%; 
     color: white;
@@ -26,13 +26,13 @@
     color: black;
     background-color: rgb(59, 2, 112);
     border-radius: 20px;
-    width: 205px;
-    height: 305px;
+    width: 92%;
+    height: 92%;
 }
 .shadow{
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: white;
     border-radius: 20px;
-    width: 220px;
-    height: 320px;
+    width: 60%;
+    height: 360px;
 }
