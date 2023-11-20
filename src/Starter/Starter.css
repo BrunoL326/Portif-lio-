@@ -25,8 +25,8 @@ H1{
     position: grid;
     box-sizing: border-box;
     border-radius: 500px ;
-    height: 200px;
-    width: 35%;
+    height: 50%;
+    width: 50%;
     display: flex;
     flex-wrap: nowrap;
 
