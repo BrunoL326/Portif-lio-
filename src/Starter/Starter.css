@@ -4,6 +4,7 @@
     /* padding: 20px; */
 }
 
+
 .perf-1{
     display: flex;
     justify-content: center;
@@ -12,7 +13,7 @@
 H1{
     position: relative;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
-    font-size: 50px;
+    font-size: 100%;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -25,35 +26,33 @@ H1{
     box-sizing: border-box;
     border-radius: 500px ;
     height: 300px;
-    width: 300px;
+    width: 40%;
     display: flex;
     flex-wrap: nowrap;
 
 }
+
 .Content-1{
+    position: relative;
     padding: 20px;
     display: flex;
     justify-content: center;
     text-decoration: none;
-    text-decoration: none;
-    
-
 }
+
 .Container-1{
     box-sizing: border-box;
-    position: relative;
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 400px;
-    height: 150;
+    width: 80%;
+    height: 150px;
     background-color: #000 ;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
-    
 }
 
 .Container-1:hover{
@@ -75,8 +74,8 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 400px;
-    height: 150;
+    width: 80%;
+    height: 150px;
     background-color: #000 ;
     color: #ffff;
     display: flex;
@@ -103,8 +102,8 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 400px;
-    height: 150;
+    width: 80%;
+    height: 150px;
     background-color: #000 ;
     color: #ffff;
     display: flex;
@@ -131,8 +130,8 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 400px;
-    height: 150;
+    width: 80%;
+    height: 150px;
     background-color: #000 ;
     color: #ffff;
     display: flex;
