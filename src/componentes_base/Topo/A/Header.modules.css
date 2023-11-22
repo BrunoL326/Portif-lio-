@@ -1,5 +1,5 @@
 header{
-    width: 99%;
+    width: 99.8%;
     box-sizing: border-box;
 }
 
@@ -10,17 +10,15 @@ header{
     z-index: 1;
 }
 
+
 .Perfil {
-    position: absolute;
     z-index: 3;
-    box-sizing: border-box;
     border-radius: 100px;
-    width: 140px;
-    height: 140px;
-    top: 195px;
-    left: 85px;
+    width: 90%;
+    height: 90%;
+    left: 20px;
     display: flex;
-    animation: Gira 4.5s ease-in-out infinite
+    animation: Gira 4.1s ease-in-out infinite
 }
 .shadow-perfil{
     box-sizing: border-box;
@@ -28,13 +26,15 @@ header{
     display: flex;
     background-color: aliceblue;
     border-radius: 100px;
-    width: 150px;
-    height: 150px;
-    top: 190px;
+    width: 10%;
+    height: 15%;
+    top: 145px; 
     left: 80px;
     filter: drop-shadow(0 0 2em #61dafbaa);
     z-index: 2;
-    animation: Gira 4.5s ease-in-out infinite
+    justify-content: center;
+    align-items: center;
+    animation: Gira 4.0s ease-in-out infinite
 }
 
 @keyframes Gira {
@@ -43,7 +43,7 @@ header{
     }
 
   50%{
-    transform: translateY(-20px);
+    transform: translateY(-10x);
     }
 
 }

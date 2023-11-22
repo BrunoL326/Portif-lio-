@@ -9,8 +9,11 @@ export function Header() {
         <header>
             <div>
             <img src={Back} className='Back' />
+            <div className='sub-cont'>
+            <div className='shadow-perfil'>
             <img src={Perfil} className='Perfil' />
-            <div className='shadow-perfil'></div>
+            </div>
+            </div>
             </div>
         </header>
     );

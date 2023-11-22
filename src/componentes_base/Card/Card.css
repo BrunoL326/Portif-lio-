@@ -9,12 +9,11 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:xx-large;
     width: 25%;
-    height: 60px;
+    height: 100px;
     background:  rgb(51, 12, 112);
     border-radius: 25px;
     cursor: pointer;
     display: flex;
-    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
     transition: 0.5s;
