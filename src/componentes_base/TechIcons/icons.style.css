@@ -1,7 +1,7 @@
 .App{
     box-sizing: border-box;
     
-    padding: 30px;
+    padding: 60px;
 }
 
 .My_name{
@@ -26,6 +26,7 @@
 
 .icon_face svg{
     box-sizing: border-box;
+    position: relative;
     padding: 20px;
     position: grid;
     color: black;

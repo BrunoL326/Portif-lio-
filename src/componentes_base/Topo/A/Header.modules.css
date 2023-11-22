@@ -26,9 +26,8 @@ header{
     display: flex;
     background-color: aliceblue;
     border-radius: 100px;
-    width: 10%;
-    height: 15%;
-    top: 145px; 
+    width: 19%;
+    top: 100px; 
     left: 80px;
     filter: drop-shadow(0 0 2em #61dafbaa);
     z-index: 2;
