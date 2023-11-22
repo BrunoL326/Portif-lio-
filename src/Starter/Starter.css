@@ -25,7 +25,6 @@ H1{
     position: grid;
     box-sizing: border-box;
     border-radius: 500px ;
-    height: 50%;
     width: 50%;
     display: flex;
     flex-wrap: nowrap;
@@ -44,8 +43,8 @@ H1{
     box-sizing: border-box;
     border-radius: 25px;
     font-size: 30px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 310px;
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+    width: 85%;
     height: 150px;
     background-color: #000 ;
     color: #ffff;

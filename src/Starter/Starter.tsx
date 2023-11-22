@@ -16,10 +16,8 @@ function Starter() {
                 Sejam Bem Vindos ao Meu Mundo
             </h1>
             <div className='Content-1'>
-            <Link to='/Home'>
-                <a className='Container-1'>
+            <Link to='/Home' className='Container-1'>
                 <BiUserCircle/>
-             </a>
              </Link>
                 </div> 
              <div className='Content-2'>
