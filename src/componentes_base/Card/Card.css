@@ -1,5 +1,6 @@
-* {
+.costas{
     margin: 2px;
+    position: relative;
     padding: 0;
 }
 
@@ -8,9 +9,9 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:xx-large;
     width: 25%;
-    height: 100px;
+    height: 60px;
     background:  rgb(51, 12, 112);
-    border-radius: 50px;
+    border-radius: 25px;
     cursor: pointer;
     display: flex;
     flex-wrap: nowrap;

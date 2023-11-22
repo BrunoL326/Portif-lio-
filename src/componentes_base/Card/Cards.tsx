@@ -16,8 +16,8 @@ export function Cards(){
             </div>
             
             <div className='container'>
-                <Link to='/Sobre'>
-                    <a className='botão b_1'>Sobre</a>
+                <Link to='/Sobre' className='botão b_1'>
+                    Sobre
                     </Link>
             </div>
             

@@ -23,7 +23,6 @@ export function Icons() {
        spaceBetween={1}
        slidesPerView={4}
        pagination={{ clickable: true }}>
-   
    <SwiperSlide>
    <div className="shadow shadow1">
       <SiNestjs/>
@@ -54,6 +53,7 @@ export function Icons() {
         <TbBrandTypescript/>
         </div>
       </SwiperSlide>
+      
 </Swiper>
 
 
