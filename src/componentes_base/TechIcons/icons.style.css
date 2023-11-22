@@ -20,17 +20,17 @@
 
 .icon_face svg{
     box-sizing: border-box;
-    margin: 8px;
+    margin: px;
     position: grid;
     color: black;
     background-color: rgb(59, 2, 112);
     border-radius: 20px;
-    width: 92%;
-    height: 92%;
+    width: 100%;
+    height: 100%;
 }
 .shadow{
     box-sizing: border-box;
     background-color: white;
     border-radius: 20px;
-    width: 60%;
+    width: 100%;
 }

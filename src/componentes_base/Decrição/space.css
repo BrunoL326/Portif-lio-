@@ -2,6 +2,7 @@
     display:  grid;
     color: white;
     box-sizing: border-box;
+    font-size: 20%;
     bottom: -100px;
     border-radius: 25%;
     justify-content: center;
@@ -10,8 +11,8 @@
     background-color: rgb(41, 41, 46);
     border-radius: 20px;
     margin: 20px;
-    width: 96.5%;
-    height: 100px;
+    width: 90%;
+    height: 90px;
 }
 
 .chao{
