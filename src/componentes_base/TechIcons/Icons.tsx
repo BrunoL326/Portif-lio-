@@ -15,7 +15,6 @@ export function Icons() {
     return(
    <div className='App'>
 
-      <div className='My_name'>Tudo Que Eu Tenho</div>
 
     <div className='icon_face'>
  <Swiper
