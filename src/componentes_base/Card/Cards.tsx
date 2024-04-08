@@ -11,14 +11,14 @@ export function Cards(){
             </div>
               
             <div className='container'>
-                <a className='botão b_2'>Como</a>
+            <Link to='/Sobre' className='botão b_2'>Sobre</Link>
 
             </div>
             
             <div className='container'>
-                <Link to='/Sobre' className='botão b_1'>
-                    Sobre
-                    </Link>
+                <a className='botão b_1'>
+                    Como
+                    </a>
             </div>
             
          </div>

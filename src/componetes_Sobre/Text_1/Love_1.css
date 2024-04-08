@@ -8,24 +8,24 @@
 .bx_back{
     box-sizing: border-box;
     border-radius: 32px 20px 100px 0px;
-    width: 800px;
-    height: 300px;
+    width: 400px;
+    height: 200px;
     justify-content: center;
     position: relative;
     display: flex;
-    background: linear-gradient(90deg, rgb(0,0,0,1)2%, rgb(255, 255, 255)50%, rgb(0,0,0,1)100% );
+    background: linear-gradient(90deg, rgb(82, 0, 98)20%, rgb(0,0,0,1)50% ,rgb(82, 0, 98)90%);
 }
 .bx_1{
     box-sizing: border-box;
     border-radius: 32px 20px 100px 0px;
-    width: 770px;
-    height: 280px;
+    width: 95%;
+    height: 93%;
     top: 7px;
     justify-content: center;
     position: relative;
     display: flex;
     background-color: gray;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     align-items: center;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
