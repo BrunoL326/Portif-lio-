@@ -5,8 +5,6 @@ import './Header.modules.css'
 
 export function Header() {
 
-let button = document.querySelector('profile')
-
     return(
         <header>
             <div>

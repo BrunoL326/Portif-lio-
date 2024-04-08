@@ -11,9 +11,9 @@
     width: 400px;
     height: 200px;
     justify-content: center;
-    position: relative;
+
     display: flex;
-    background: linear-gradient(90deg, rgb(82, 0, 98)20%, rgb(0,0,0,1)50% ,rgb(82, 0, 98)90%);
+    background-color: white;
 }
 .bx_1{
     box-sizing: border-box;
@@ -22,7 +22,7 @@
     height: 93%;
     top: 7px;
     justify-content: center;
-    position: relative;
+    position: grid;
     display: flex;
     background-color: gray;
     font-size: 40px;
@@ -30,3 +30,4 @@
     align-items: center;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
 }
+
