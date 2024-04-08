@@ -3,7 +3,7 @@ import { TX_1 } from '../../componentes_base/Topo/Header_Sobre/heander';
 import { Btx } from '../../componetes_Sobre/button_back/Text2';
 import './Sobre.css'
 
-function Changes() {
+export function Page2() {
     return(
     <div>
         <div>
@@ -18,4 +18,3 @@ function Changes() {
         )
 }
 
-export default Changes

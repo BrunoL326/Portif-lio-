@@ -6,7 +6,7 @@ export function Cards(){
         <div className="costas">
     
             <div className='container'>
-                <a className='botão b_3'>Porque</a>
+                <Link to='/Porque' className='botão b_3'>Porque</Link>
                 
             </div>
               
@@ -16,9 +16,7 @@ export function Cards(){
             </div>
             
             <div className='container'>
-                <a className='botão b_1'>
-                    Como
-                    </a>
+                <Link to='/Como' className='botão b_1'>Como</Link>
             </div>
             
          </div>
