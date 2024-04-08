@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from '../Home/Home';
-import Changes from '../Sobre/Mim';
+import Home from '../Pages/Home/Home';
+import Changes from '../Pages/Sobre/Mim';
 import './styles.css';
-import Starter from '../Starter/Starter';
+import Starter from '../Pages/Starter/Starter';
 
  function App() {
   return (
