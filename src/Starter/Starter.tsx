@@ -13,7 +13,7 @@ function Starter() {
                 <img src={Perfil} className='Eu-2'/>
             </div>
             <h1>
-                Sejam Bem Vindos ao Meu Mundo
+                Sejam Bem Vindos
             </h1>
             <div className='Content-1'>
             <Link to='/Home' className='Container-1'>

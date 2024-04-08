@@ -10,6 +10,16 @@
     justify-content: center;
 }
 
+.Eu-2{
+    position: grid;
+    box-sizing: border-box;
+    border-radius: 500px ;
+    width: 45%;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
 H1{
     position: relative;
     font-family: Impact,'Arial Narrow Bold', sans-serif;
@@ -21,15 +31,7 @@ H1{
     color: white;
 }
 
-.Eu-2{
-    position: grid;
-    box-sizing: border-box;
-    border-radius: 500px ;
-    width: 30%;
-    display: flex;
-    flex-wrap: nowrap;
 
-}
 
 .Content-1{
     position: relative;
