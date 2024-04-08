@@ -20,7 +20,7 @@ export function Icons() {
  <Swiper
        modules={[Navigation, Pagination, A11y]}
        spaceBetween={1}
-       slidesPerView={4}
+       slidesPerView={2.5}
        pagination={{ clickable: true }}>
    <SwiperSlide>
    <div className="shadow shadow1">
