@@ -1,6 +1,7 @@
 .bxt_back{
     box-sizing: border-box;
     position: fixed;
+    justify-content: center;
     top: 15px;
     color: white;
     font-size: 45px;
@@ -15,6 +16,7 @@
 .bxt_back2{
     box-sizing: border-box;
     position: fixed;
+    justify-content: center;
     top: 15px;
     color: white;
     font-size: 45px;

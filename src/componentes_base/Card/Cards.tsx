@@ -6,7 +6,7 @@ export function Cards(){
         <div className="costas">
     
             <div className='container'>
-                <a className='botão b_3'>Por Que</a>
+                <a className='botão b_3'>Porque</a>
                 
             </div>
               

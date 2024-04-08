@@ -6,8 +6,8 @@
 
 .botão{
     position: absolute;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size:xx-large;
+    text-overflow: ellipsis;
+    font-size: 30px;
     width: 25%;
     height: 100px;
     background:  rgb(51, 12, 112);
