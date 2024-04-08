@@ -1,6 +1,6 @@
 import { Space } from '../componentes_base/Decrição/space';
-import { TX_1 } from '../componetes_Sobre/Text_1/heander';
-import { Btx } from '../componetes_Sobre/Text_2/Text2';
+import { TX_1 } from '../componentes_base/Topo/Header_Sobre/heander';
+import { Btx } from '../componetes_Sobre/button_back/Text2';
 import './Sobre.css'
 
 function Changes() {
@@ -9,7 +9,7 @@ function Changes() {
         <div>
             <TX_1 />
             </div>
-        <Btx/>
+            <Btx/>
             
             <div>
             <Space/>

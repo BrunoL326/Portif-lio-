@@ -1,8 +1,8 @@
-import { Header } from '../componentes_base/Topo/A/header';
+import { Header } from '../componentes_base/Topo/Header_Home/header';
 import { Icons } from '../componentes_base/TechIcons/Icons';
 import { Cards } from '../componentes_base/Card/Cards';
 import { Space } from '../componentes_base/Decrição/space';
-import { Btx2 } from '../componetes_Sobre/Text_2/Text2'
+import { Btx2 } from '../componetes_Sobre/button_back/Text2'
 
 function Home() {
     return(
