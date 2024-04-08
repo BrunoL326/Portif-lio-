@@ -14,7 +14,7 @@ let button = document.querySelector('profile')
             <div className='sub-cont'>
             <button> 
             <img src={Perfil} className='Perfil' />
-            <div className='profile'>Olá Sou Bruno L Oliveira</div>
+            <div className='profile'>Olá sou Bruno, quer saber mais ? </div>
             </button>
             </div>
             </div>
