@@ -1,13 +1,16 @@
 .mobile{
     box-sizing: border-box;
     overflow: hidden;
+    box-sizing: border-box;
+    display: flex;
+    width: 400px;
     border-radius: 32px 20px 100px 0px;
-    top: 7px;
+    padding: 2px;
     background-color: gray;
 }
 
 .imagens{ 
-display: grid;
+display: flex;
 place-items: center;
 }
 
@@ -42,5 +45,5 @@ height: 50%;
     width: 120%;
     height: 50%;
 
-    }
+}
 

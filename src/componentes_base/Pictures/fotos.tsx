@@ -12,9 +12,9 @@ export function Fotos(){
             <img src={Ft1} className='item_1'/>
             <img src={Ft2} className='item_2'/>
             <img src={Ft3} className='item_3'/>
+                </div>
+             </div>
             </div>
-        </div>
-        </div>
         </div>
     )
 }

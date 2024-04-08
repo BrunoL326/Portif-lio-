@@ -29,6 +29,7 @@ header{
 
 button{
     box-sizing: border-box;
+    font-family: arial black;
     position: absolute;
     display: flex;
     overflow: hidden;
@@ -37,8 +38,8 @@ button{
     border-radius: 100px  100px  100px 0px;
     width: 70%;
     height: 150px;
-    top: 100px; 
-    left: 80px;
+    top: 70px; 
+    left: 90px;
     filter: drop-shadow(0 0 2em #61dafbaa);
     z-index: 2;
     justify-content: center;

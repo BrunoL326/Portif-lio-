@@ -1,33 +1,10 @@
 .Back_1{
-    padding: 0;
-    margin: 30px;
-    display: flex;
-    justify-content: center;
-}
-
-.bx_back{
     box-sizing: border-box;
-    border-radius: 32px 20px 100px 0px;
-    width: 400px;
-    height: 200px;
-    justify-content: center;
-
+    width: 100%;
+    position: relative;
     display: flex;
-    background-color: white;
-}
-.bx_1{
-    box-sizing: border-box;
-    border-radius: 32px 20px 100px 0px;
-    width: 95%;
-    height: 93%;
-    top: 7px;
     justify-content: center;
-    position: grid;
-    display: flex;
-    background-color: gray;
-    font-size: 40px;
-    text-align: center;
     align-items: center;
-    font-family: Impact,'Arial Narrow Bold', sans-serif;
 }
+
 

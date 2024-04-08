@@ -12,8 +12,8 @@ function Home() {
     <Header/>
     </div>
     <Icons/>
-    
     <Cards/>
+    
 
     <Space/>
     
