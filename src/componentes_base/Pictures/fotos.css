@@ -34,13 +34,13 @@ width: 80%;
 flex: none;
 width: 67%;
 height: 50%;
-scroll-snap-align: start;
+
 }
 
 .item_3{
     flex: none;
     width: 120%;
     height: 50%;
-    scroll-snap-align: start;
+
     }
 
