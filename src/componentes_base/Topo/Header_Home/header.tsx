@@ -10,8 +10,8 @@ export function Header() {
             <div>
             <img src={Back} className='Back' />
             <div className='sub-cont'>
-            <button> 
             <img src={Perfil} className='Perfil' />
+            <button> 
             <div className='profile'>Olá sou Bruno, quer saber mais ? </div>
             </button>
             </div>
