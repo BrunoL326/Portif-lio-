@@ -1,4 +1,4 @@
-import { Botão } from '../../componentes_base/Bottton/botton';
+import { Botão1 } from '../../componentes_base/Botton_1/botton';
 import { Btx } from '../../componetes_Sobre/button_back/Text2';
 
 import '../Como/como.css'
@@ -8,7 +8,7 @@ export function Page1(){
         <div>
             <Btx/>
             <div className='Game'>
-            <Botão/>
+            <Botão1/>
             </div>
         </div>
     )

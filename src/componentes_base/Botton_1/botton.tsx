@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import '../Bottton/botton.css'
+import './botton.css'
 
-export function Botão(){
+export function Botão1(){
 
 const [ Active, DESLIGADO ] = useState(false)
 
