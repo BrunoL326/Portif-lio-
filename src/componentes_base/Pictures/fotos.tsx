@@ -8,7 +8,8 @@ export function Fotos(){
         <div className='mobile'>
             <div className="imagens">
             <div className="items-wrapper">
-            <div className="items">
+            <div className="items"> 
+            <div className="escolha">MINHA ESCOLHA</div>
             <img src={Ft1} className='item_1'/>
             <img src={Ft2} className='item_2'/>
             <img src={Ft3} className='item_3'/>
