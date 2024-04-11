@@ -1,5 +1,5 @@
-import { Botão1 } from '../../componentes_base/Botton_1/botton';
-import { Btx } from '../../componetes_Sobre/button_back/Text2';
+import { Botão1 } from '../../componentes_base/BOTÕES/Botton_1/botton';
+import { Btx } from '../../componentes_base/BOTÕES/button_back/Text2';
 
 import '../Como/como.css'
 

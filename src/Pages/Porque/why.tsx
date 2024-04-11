@@ -1,4 +1,4 @@
-import { Btx } from '../../componetes_Sobre/button_back/Text2'
+import { Btx } from '../../componentes_base/BOTÕES/button_back/Text2'
 import '../Porque/why.css'
 
 export function Page3(){

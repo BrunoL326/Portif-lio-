@@ -15,24 +15,24 @@ function Starter() {
             <h1>
                 Sejam Bem Vindos
             </h1>
-            <div className='Content-1'>
+            <div className='Content-1 comst'>
             <Link to='/Home' className='Container-1'>
                 <BiUserCircle/>
              </Link>
                 </div> 
-             <div className='Content-2'>
+             <div className='Content-2 comst' >
                  <a href="https://www.linkedin.com/in/bruno-lima-871a98252/" 
                   className='Container-2'>
                  <AiFillLinkedin/>
              </a>
              </div>
-             <div className='Content-3'>
+             <div className='Content-3 comst'>
                  <a href='https://www.instagram.com/b.l.o_buuh/' 
                  className='Container-3'>
                  <AiOutlineInstagram />
              </a>
              </div>
-             <div className='Content-4'>
+             <div className='Content-4 comst'>
                  <a href='https://github.com/BrunoL326' 
                  className='Container-4'>
                  <AiFillGithub />

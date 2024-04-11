@@ -7,7 +7,6 @@ const [ Active, DESLIGADO ] = useState(false)
 
     return(
         <div className="background10">
-
         <div onClick={() => {DESLIGADO(!Active)}}>
             <div className="BTN">COMO:</div>
         </div>
@@ -22,5 +21,6 @@ const [ Active, DESLIGADO ] = useState(false)
 )}
         </div>
     )
-}
+};
+
 

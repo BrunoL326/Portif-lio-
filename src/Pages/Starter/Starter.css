@@ -6,18 +6,21 @@
 
 
 .perf-1{
+    position: relative;
+    top: 25px;
     display: flex;
     justify-content: center;
+
 }
 
 .Eu-2{
     position: grid;
     box-sizing: border-box;
     border-radius: 500px ;
-    width: 45%;
+    width: 250px;
     display: flex;
     flex-wrap: nowrap;
-
+    box-shadow: 1px 5px white;
 }
 
 H1{
@@ -46,7 +49,7 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact,  'Arial Narrow Bold', sans-serif;
-    width: 85%;
+    width: 450px;
     height: 150px;
     background-color: #000 ;
     color: #ffff;
@@ -75,7 +78,7 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 85%;
+    width: 450px;
     height: 150px;
     background-color: #000 ;
     color: #ffff;
@@ -103,7 +106,7 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 85%;
+    width: 450px;
     height: 150px;
     background-color: #000 ;
     color: #ffff;
@@ -131,7 +134,7 @@ H1{
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: 85%;
+    width: 450px;
     height: 150px;
     background-color: #000 ;
     color: #ffff;
@@ -144,6 +147,5 @@ H1{
     background-color: white;
     transition: 0.9s;
     color: black;
-    
 }
 
