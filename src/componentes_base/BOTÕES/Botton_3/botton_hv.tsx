@@ -8,7 +8,7 @@ export function Botão3(){
     return(
         <div className='background12'>
             <div onClick={() => {DESLIGADO(!Active)}}>
-                <div className="BTN3">Havainas</div>
+                <div className="BTN3">Havaianas</div>
             </div>
             {Active && (       
         <div className="body_7">
