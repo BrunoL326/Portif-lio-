@@ -14,9 +14,7 @@ import { Botão6 } from '../../componentes_base/BOTÕES/Botton_6/botton_aux_adm'
 export function Page2() {
     return(
     <div>
-            <div className='TX1'>
-            <TX_1 />
-            </div>
+            
             <div className="Btx">
             <Btx/>
             </div>
