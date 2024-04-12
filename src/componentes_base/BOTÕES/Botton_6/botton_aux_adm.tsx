@@ -15,7 +15,7 @@ export function Botão6(){
             <div className="card_12">
                 <div className="content_10" >
                     <p>Auxiliar Adm / TI </p>
-                    <p>2023</p>
+                    <p>2023-2024</p>
                 </div>
             </div>
         </div>

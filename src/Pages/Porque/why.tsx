@@ -2,6 +2,7 @@ import { Btx } from '../../componentes_base/BOTÕES/button_back/Text2'
 import { TX_1 } from '../../componentes_base/Topo/Header_Sobre/heander'
 import { useState } from 'react';
 import '../Porque/why.css'
+import { Space } from '../../componentes_base/Decrição/space';
 
 export function Page3(){
 
@@ -28,6 +29,7 @@ export function Page3(){
 )}
 </div>
         </div>
+        <Space/>
         </div>
     )
 }
