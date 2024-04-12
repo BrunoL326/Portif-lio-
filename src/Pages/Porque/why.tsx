@@ -13,7 +13,8 @@ export function Page3(){
             <div className="centro">
             <div onClick={() => {DESLIGADO(!Active)}}>
             <div className='TX1'>
-                <TX_1 /> </div>
+                <TX_1 /></div>
+               <div className="clique">Clique na imagem</div> 
             
             {Active && (       
         <div className="body_11">

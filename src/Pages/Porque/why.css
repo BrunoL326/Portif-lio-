@@ -1,3 +1,10 @@
+.clique{
+    display: flex;
+    justify-content: center;
+   color: white; 
+}
+
+
 .centro{
     padding: 20px;
     display: flex;
