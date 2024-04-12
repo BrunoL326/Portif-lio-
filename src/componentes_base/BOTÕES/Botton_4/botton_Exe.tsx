@@ -8,7 +8,7 @@ export function Botão4(){
     return(
         <div className='background13'>
             <div onClick={() => {DESLIGADO(!Active)}}>
-                <div className="BTN4">Exercito </div>
+                <div className="BTN4">Exército </div>
             </div>
             {Active && (       
         <div className="body_8">

@@ -1,3 +1,14 @@
+.Title {
+    padding-top: 5%;
+    font-family: arial black;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .Botão2{
     padding: 30px;

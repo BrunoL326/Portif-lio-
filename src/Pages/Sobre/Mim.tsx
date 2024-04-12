@@ -18,6 +18,9 @@ export function Page2() {
             <div className="Btx">
             <Btx/>
             </div>
+            <div className="Title">
+                EXPERIÊNCIAS 
+            </div>
             <div className='Botão2'>
             <Botão2/>
             </div>
