@@ -1,0 +1,42 @@
+.centro{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* BOTÃO  */
+
+.body_11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    width: 370px;
+    height: 800px;
+    background-color: rgb(51, 12, 112);
+}
+
+.card_13{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    padding: 20px;
+    background-color: #3f3f3f;
+    text-align: justify;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.38);
+    position: relative;
+    z-index: 1;
+}
+
+.card_13::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 20px solid transparent;
+    border-top: 20px solid black;
+    border-right: 20px solid black;
+}
