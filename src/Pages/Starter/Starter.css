@@ -20,7 +20,7 @@
     width: 250px;
     display: flex;
     flex-wrap: nowrap;
-    box-shadow: 1px 5px white;
+    box-shadow: 1px 1px 1px 1px white;
 }
 
 H1{
@@ -46,6 +46,7 @@ H1{
 
 .Container-1{
     box-sizing: border-box;
+    box-shadow: 1px 5px white;
     border-radius: 25px;
     font-size: 30px;
     font-family: Impact,  'Arial Narrow Bold', sans-serif;
@@ -83,6 +84,7 @@ H1{
     background-color: #000 ;
     color: #ffff;
     display: flex;
+    box-shadow: 1px 5px white;
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -109,6 +111,7 @@ H1{
     width: 450px;
     height: 150px;
     background-color: #000 ;
+    box-shadow: 1px 5px white;
     color: #ffff;
     display: flex;
     justify-content: center;
@@ -132,6 +135,7 @@ H1{
 .Container-4{
     box-sizing: border-box;
     border-radius: 25px;
+    box-shadow: 1px 5px white;
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: 450px;
