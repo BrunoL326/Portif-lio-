@@ -14,7 +14,7 @@ export function Botão2(){
         <div className="body_6">
             <div className="card_8">
                 <div className="content_6" >
-                    <p>Escravo</p>
+                    <p>Auxiliar</p>
                     <p>2020-2021</p>
                 </div>
             </div>
